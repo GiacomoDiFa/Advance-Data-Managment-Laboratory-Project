@@ -59,4 +59,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
 
 Thank you for your interest in the Advance Data Management Laboratory Project! We hope you find it useful and enjoy working with it.
-```
