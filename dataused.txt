@@ -1,0 +1,2 @@
+The data used are inside this website.
+https://fakestoreapi.com/
