@@ -60,5 +60,3 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 Thank you for your interest in the Advance Data Management Laboratory Project! We hope you find it useful and enjoy working with it.
 ```
-
-You can paste this code into your README file on GitHub, and it will be formatted as expected.
