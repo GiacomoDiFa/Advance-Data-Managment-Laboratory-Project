@@ -18,7 +18,9 @@ git clone https://github.com/your-username/Advance-Data-Managment-Laboratory-Pro
 cd Advance-Data-Managment-Laboratory-Project/backend
 ```
 
-2. Start the backend server:
+2. Insert all the necessary token to the .env file.
+   
+3. Start the backend server:
 
 ```bash
 node server.js
