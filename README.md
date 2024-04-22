@@ -7,7 +7,7 @@ Welcome to the Advance Data Management Laboratory Project! This repository conta
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Advance-Data-Managment-Laboratory-Project.git
+git clone https://github.com/GiacomoDiFa/Advance-Data-Managment-Laboratory-Project.git
 ```
 
 ## Running the Backend
